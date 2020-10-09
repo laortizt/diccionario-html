@@ -1,0 +1,45 @@
+body {
+    background: #f9ca24;
+}
+
+h1 {
+    text-align: center;
+    color:black;
+    font-size: 60px;
+}
+
+nav{
+    text-align: center; 
+    background-color: #f0932b;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    margin: 6px;
+}
+
+section {
+    color:black;
+    font-size: 24px; 
+    margin: 32px auto;
+    width: 900px;
+}
+
+.letra {
+    display: block;
+    font-size: 30px;
+    
+    color: black;
+    margin-bottom: 4px;
+}
+
+.palabra {
+    font-weight: bold;
+    color: #4834d4;
+}
+footer{
+    text-align: center;
+    color: black;
+}
